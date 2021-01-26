@@ -1,7 +1,7 @@
 #include "networking.h"
 #include "gui.h"
 
-const char* ip   = "192.168.1.1";
+const char* ip   = "192.168.1.1"; // this ip is wrong, read the correct one from a file or something
 const char* port = "42069";
 
 int main()
