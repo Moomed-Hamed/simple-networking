@@ -8,7 +8,7 @@
 
 #include <iostream> // for debug only
 #define print printf
-#define NETWORK_ERROR(err) std::cout << "NETWORK ERROR: " << err
+#define NETWORK_ERROR(err) std::cout << "NETWORK ERROR: " << err << '\n'
 
 typedef unsigned int uint;
 
